@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\bin\Release\Producer.exe.config
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\bin\Release\Producer.exe
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\bin\Release\Producer.pdb
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\bin\Release\AForge.dll
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\bin\Release\AForge.Video.dll
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\bin\Release\AForge.xml
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\bin\Release\AForge.Video.xml
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\obj\Release\Producer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\obj\Release\Producer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\obj\Release\Producer.csproj.CopyComplete
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\obj\Release\Producer.exe
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\obj\Release\Producer.pdb

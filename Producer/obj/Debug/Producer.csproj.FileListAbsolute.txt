@@ -1,0 +1,28 @@
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\bin\Debug\Producer.exe.config
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\bin\Debug\Producer.exe
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\bin\Debug\Producer.pdb
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\obj\Debug\Producer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\obj\Debug\Producer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\obj\Debug\Producer.exe
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\obj\Debug\Producer.pdb
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\bin\Debug\AForge.dll
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\bin\Debug\AForge.Video.dll
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\bin\Debug\AForge.xml
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\bin\Debug\AForge.Video.xml
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\User\source\repos\WindowsFormsApp1\Producer\obj\Debug\Producer.csproj.CopyComplete
+C:\Users\User\source\repos\Веб камера\Producer\bin\Debug\Producer.exe.config
+C:\Users\User\source\repos\Веб камера\Producer\bin\Debug\Producer.exe
+C:\Users\User\source\repos\Веб камера\Producer\bin\Debug\Producer.pdb
+C:\Users\User\source\repos\Веб камера\Producer\bin\Debug\AForge.dll
+C:\Users\User\source\repos\Веб камера\Producer\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\User\source\repos\Веб камера\Producer\bin\Debug\AForge.Video.dll
+C:\Users\User\source\repos\Веб камера\Producer\bin\Debug\AForge.xml
+C:\Users\User\source\repos\Веб камера\Producer\bin\Debug\AForge.Video.xml
+C:\Users\User\source\repos\Веб камера\Producer\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\User\source\repos\Веб камера\Producer\obj\Debug\Producer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Веб камера\Producer\obj\Debug\Producer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Веб камера\Producer\obj\Debug\Producer.csproj.CopyComplete
+C:\Users\User\source\repos\Веб камера\Producer\obj\Debug\Producer.exe
+C:\Users\User\source\repos\Веб камера\Producer\obj\Debug\Producer.pdb
